@@ -69,4 +69,3 @@ I worked on the signup form, including input validation and password confirmatio
 
 I tested the form with valid and invalid inputs and checked whether the tip feature handled missing data correctly.
 
-indivi
